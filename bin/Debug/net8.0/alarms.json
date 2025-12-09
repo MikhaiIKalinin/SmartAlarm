@@ -1,0 +1,12 @@
+[
+  {
+    "AlarmTime": "2025-12-09T07:23:00",
+    "MelodyPath": "Standard_Beep.mp3",
+    "IsSmartAwakening": true
+  },
+  {
+    "AlarmTime": "2025-12-09T07:30:00",
+    "MelodyPath": "Nature",
+    "IsSmartAwakening": true
+  }
+]

@@ -1,0 +1,15 @@
+\\Mac\Home\Documents\univer\tirpz\SmartAlarm\SmartAlarm\SmartAlarm\bin\Debug\net10.0-windows\SmartAlarm.exe
+\\Mac\Home\Documents\univer\tirpz\SmartAlarm\SmartAlarm\SmartAlarm\bin\Debug\net10.0-windows\SmartAlarm.deps.json
+\\Mac\Home\Documents\univer\tirpz\SmartAlarm\SmartAlarm\SmartAlarm\bin\Debug\net10.0-windows\SmartAlarm.runtimeconfig.json
+\\Mac\Home\Documents\univer\tirpz\SmartAlarm\SmartAlarm\SmartAlarm\bin\Debug\net10.0-windows\SmartAlarm.dll
+\\Mac\Home\Documents\univer\tirpz\SmartAlarm\SmartAlarm\SmartAlarm\bin\Debug\net10.0-windows\SmartAlarm.pdb
+\\Mac\Home\Documents\univer\tirpz\SmartAlarm\SmartAlarm\SmartAlarm\obj\Debug\net10.0-windows\SmartAlarm.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Documents\univer\tirpz\SmartAlarm\SmartAlarm\SmartAlarm\obj\Debug\net10.0-windows\SmartAlarm.AssemblyInfoInputs.cache
+\\Mac\Home\Documents\univer\tirpz\SmartAlarm\SmartAlarm\SmartAlarm\obj\Debug\net10.0-windows\SmartAlarm.AssemblyInfo.cs
+\\Mac\Home\Documents\univer\tirpz\SmartAlarm\SmartAlarm\SmartAlarm\obj\Debug\net10.0-windows\SmartAlarm.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\univer\tirpz\SmartAlarm\SmartAlarm\SmartAlarm\obj\Debug\net10.0-windows\SmartAlarm.sourcelink.json
+\\Mac\Home\Documents\univer\tirpz\SmartAlarm\SmartAlarm\SmartAlarm\obj\Debug\net10.0-windows\SmartAlarm.dll
+\\Mac\Home\Documents\univer\tirpz\SmartAlarm\SmartAlarm\SmartAlarm\obj\Debug\net10.0-windows\refint\SmartAlarm.dll
+\\Mac\Home\Documents\univer\tirpz\SmartAlarm\SmartAlarm\SmartAlarm\obj\Debug\net10.0-windows\SmartAlarm.pdb
+\\Mac\Home\Documents\univer\tirpz\SmartAlarm\SmartAlarm\SmartAlarm\obj\Debug\net10.0-windows\SmartAlarm.genruntimeconfig.cache
+\\Mac\Home\Documents\univer\tirpz\SmartAlarm\SmartAlarm\SmartAlarm\obj\Debug\net10.0-windows\ref\SmartAlarm.dll
