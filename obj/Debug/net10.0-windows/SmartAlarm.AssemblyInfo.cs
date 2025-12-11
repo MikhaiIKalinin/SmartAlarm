@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SmartAlarm")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+485b99ac52f4e579e7863612096197e9c6f146bc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+182efa2f9f4496e273e21c0f73a32ac700de2108")]
 [assembly: System.Reflection.AssemblyProductAttribute("SmartAlarm")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SmartAlarm")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
