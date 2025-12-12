@@ -1,41 +1,51 @@
-SmartAlarm is a .NET console application designed to manage personal alarms with advanced scheduling capabilities. It allows users to create, view, and delete alarms, supporting specific days of the week and data persistence via JSON.
+⏰ Smart Alarm Clock (Розумний будильник)
+Настільний додаток для ПК, що поєднує функції класичного будильника, трекера сну та інформаційного асистента. Допомагає не лише прокидатися вчасно, але й починати ранок продуктивно.
 
-Features
+✨ Функціональні можливості
+🕒 Розумний будильник
+Гнучкі налаштування: Створення необмеженої кількості будильників з вибором днів тижня.
 
-CRUD Operations: Create, Read, and Delete alarms.
+"М'яке" пробудження: Функція поступового наростання гучності мелодії для комфортного виходу зі сну.
 
-Weekly Scheduling: Set alarms to ring on specific days (e.g., Mon, Wed, Fri) or as one-time events.
+Математичний захист: Щоб вимкнути сигнал, необхідно розв'язати просте рівняння (захист від випадкового вимкнення спросоння).
 
-Data Persistence: Automatically saves and loads alarms from alarms.json using System.Text.Json.
+🌤 Інформаційний віджет
+Погода зараз: Відображення поточної температури та стану неба у вашому місті.
 
-User Interface: Simple and intuitive Console Line Interface (CLI) in Ukrainian.
+Календар: Інтеграція з локальним календарем для відображення подій на день.
 
-Smart Logic: Placeholder structure for "Smart Awakening" features.
+⏱ Таймер та Секундомір
+Таймер сну: Можливість встановити таймер для відключення ПК або переходу в сплячий режим.
 
-Tech Stack
+Секундомір: Класичний секундомір з можливістю фіксації проміжних результатів (кіл).
 
-Language: C#
+🛠 Технічний стек
+Проєкт реалізовано мовою Python 3.10 з використанням наступних технологій:
 
-Framework: .NET 6.0 / .NET 7.0 (Console Application)
+Tkinter / CustomTkinter — створення сучасного графічного інтерфейсу (GUI).
 
-Data Format: JSON
+SQLite — локальна база даних для зберігання налаштувань користувача та збережених будильників.
 
-IDE: Visual Studio / VS Code
+Pygame — модуль для роботи з аудіо (відтворення мелодій будильника).
 
-Project Structure
+Requests — отримання даних про погоду через OpenWeatherMap API.
 
-Program.cs - Entry point and UI logic.
+🚀 Встановлення та запуск
+Передумови
+Python 3.10 або новіше.
 
-Alarm.cs - Data model (Time, Melody, Days, etc.).
+ОС Windows / macOS / Linux.
 
-AlarmManager.cs - Business logic (CRUD operations).
+1. Клонування репозиторію
+Bash
 
-StorageService.cs - Handles saving/loading data.
+git clone https://github.com/MikhaiIKalinin/SmartAlarm.git
+cd SmartAlarm
+2. Встановлення залежностей
+Bash
 
-How to Run
+pip install -r requirements.txt
+3. Запуск
+Bash
 
-Clone the repository: git clone https://github.com/MikhailKalinin/SmartAlarm.git
-
-Navigate to the project directory: cd SmartAlarm
-
-Run the application: dotnet run
+python main.py
